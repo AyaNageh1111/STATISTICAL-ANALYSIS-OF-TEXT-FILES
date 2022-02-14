@@ -1,8 +1,8 @@
 # STATISTICAL ANALYSIS OF TEXT FILES
-** GUI-based tool that allows a user to add any text file and results in some statistics related to the text written in the file.
+### GUI-based tool that allows a user to add any text file and results in some statistics related to the text written in the file.
 ---
-#GUI Description
-** The GUI do the following:
+## GUI Description
+### The GUI do the following:
 ⋅⋅* Allow the user enter the path of a text file (.txt), in which the text is written in English letters.
 ⋅⋅* Based on the added file, the GUI should display the following:
             *A plot showing the probability of each of the 26 English characters **case insensitive**.
